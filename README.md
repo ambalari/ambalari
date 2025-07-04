@@ -1,7 +1,6 @@
-## Hi, I am Lari👋
+## Hello👋
 
-
-**ambalari/ambalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Lari.
 
 Here are some ideas to get you started:
 
