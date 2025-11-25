@@ -1,15 +1,7 @@
-## Hey-hey👋
+## Hey👋
 
 I'm Larysa! Nice to meet you.
 
-About me:
+I’m a frontend developer passionate about building interfaces that truly connect with users. My stack includes HTML, CSS, JavaScript/TypeScript, React, Next.js, Node.js, and Tailwind. I care about clean code, thoughtful UX, and performance.
 
-An Armenian girl from southern Ukraine, now based in Madrid. I hold degrees in international journalism and linguistics. After some time working in marketing, I decided to pivot and dive into coding.
-
-I aim to build a career in web development with a focus on EduTech or MedTech — fields where innovation truly makes a difference.
-
-What I know so far:
-
-💻 HTML, CSS, JavaScript
-
-⚛️ React
+Beyond development, I have experience in SMM, content marketing, SEO, and freelance project management. I’m comfortable working with Agile, Scrum, and Kanban, and I use tools like Notion, Asana, Trello, and GitHub Projects with ease.
